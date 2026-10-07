@@ -1,0 +1,19 @@
+.gitignore
+  s_a8f0bc7a9ea531::t_ea663f7db270d2 76-79
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "ee46e9945ca98a6cf2555512bfddfe812b262940",
+  "prompts": {},
+  "sessions": {
+    "s_a8f0bc7a9ea531": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2b8f9cb1-b618-4685-876e-3a3006c77306",
+        "model": "grok-4.7"
+      },
+      "human_author": "Peng Wang （汪鹏）(BG-大住宿事业群) <pwang29@trip.com>"
+    }
+  }
+}
